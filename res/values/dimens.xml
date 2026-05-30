@@ -118,8 +118,8 @@
 
     <!-- All Apps -->
     <dimen name="all_apps_starting_vertical_translate">300dp</dimen>
-    <dimen name="all_apps_search_bar_content_overlap">21dp</dimen>
-    <dimen name="all_apps_search_bar_bottom_padding">40dp</dimen>
+    <dimen name="all_apps_search_bar_content_overlap">26dp</dimen>
+    <dimen name="all_apps_search_bar_bottom_padding">42dp</dimen>
     <dimen name="all_apps_empty_search_message_top_offset">40dp</dimen>
     <dimen name="all_apps_search_top_row_extra_height">4dp</dimen>
     <dimen name="all_apps_header_pill_height">48dp</dimen>
